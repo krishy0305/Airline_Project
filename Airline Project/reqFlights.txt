@@ -1,6 +1,6 @@
 5
-Hyd|Dubai|C
-Hyd|San Diego|T
+Hyderabad|Dubai|C
+Hyderabad|San Diego|T
 Delhi|Paris|C
 San Diego|Delhi|T
 Toronto|Paris|C
