@@ -1,9 +1,9 @@
 8
-Hyd|Delhi|200|60
-Delhi|Dubai|300|180
-Dubai|New York|800|1000
-New York|San Diego|80|180
-Hyd|Dubai|400|180
-Hyd|Paris|500|600
-Paris|New York|500|300
-Paris|San Diego|500|800
+Hyd|Delhi|200|143
+Delhi|Dubai|300|210
+Dubai|New York|800|880
+New York|San Diego|150|350
+Hyd|Dubai|400|215
+Hyd|Paris|500|900
+Paris|New York|500|450
+Paris|San Diego|500|700
